@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\asus\source\repos\string函数测试\string函数测试\源.cpp(70,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\source\repos\string函数测试\string函数测试\源.cpp(72,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\asus\source\repos\string函数测试\string函数测试\源.cpp(32): warning C4172: 返回局部变量或临时变量的地址: out
+  string函数测试.vcxproj -> C:\Users\asus\source\repos\string函数测试\Debug\string函数测试.exe

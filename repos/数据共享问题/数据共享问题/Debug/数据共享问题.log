@@ -1,0 +1,4 @@
+﻿  数据共享问题.cpp
+C:\Users\asus\source\repos\数据共享问题\数据共享问题\数据共享问题.cpp(50,21): warning C4930: “std::lock_guard<std::mutex> m_mutex(void)”: 未调用原型函数(是否是有意用变量定义的?)
+C:\Users\asus\source\repos\数据共享问题\数据共享问题\数据共享问题.cpp(62,22): warning C4930: “std::lock_guard<std::mutex> m_mutex(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  数据共享问题.vcxproj -> C:\Users\asus\source\repos\数据共享问题\Debug\数据共享问题.exe
